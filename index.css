@@ -1,0 +1,8 @@
+body {
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.container-fluid {
+    background-image:linear-gradient(to right bottom, #F234EA, #F62DE4);
+}
